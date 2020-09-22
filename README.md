@@ -4,7 +4,8 @@
 
 This app mimics a simple Twitter poll with the votes being tracked on the Ethereum blockchain. It includes instructions for how to run it on a local blockchain, but can also be adapted to run on a testnet or the public Ethereum network.
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot1.png)
+![Screenshot](./screenshot2.png)
 
 ## Prerequisites
 
